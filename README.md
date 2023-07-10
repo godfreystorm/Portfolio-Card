@@ -1,2 +1,14 @@
 # Portfolio-Card
-In this GitHub repository, I proudly present my portfolio card created using the HTML and CSS skills I've learned. 💻 By leveraging the power of Flexbox, I designed a visually appealing card layout that showcases my social media profiles and connections. 🌐 With the help of external icons, I added intuitive and interactive links to various social platforms. Explore the repository to see how I combined my newfound HTML and CSS knowledge to craft this dynamic portfolio card. Stay tuned for more exciting projects on the horizon! 🚀
+An interactive digital portfolio for Full-Stack Developer, Godfrey Osagiede.
+
+This project represents a portfolio card built with standard web technologies. It encapsulates the professional profile of Godfrey Osagiede, a Full-Stack Developer, in an attractive and user-friendly layout. The portfolio card offers a novel approach to presenting personal and professional information, thereby elevating the professional online presence.
+
+# Technologies-Used
+HTML5: Used to craft the fundamental structure of the portfolio card.
+
+CSS3: Employed to style the webpage, enhancing the layout beyond the basic HTML elements.
+
+Boxicons 2.1.4: An external icon library used to visually represent various social media platforms and engagement metrics.
+
+# Design
+Leveraging the power of CSS, particularly Flexbox, the layout of the card was meticulously designed to be visually appealing. The use of external icons not only added visual interest but also facilitated intuitive interaction with the links to various social platforms.
