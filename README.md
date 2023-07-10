@@ -1,1 +1,2 @@
 # Portfolio-Card
+In this GitHub repository, I proudly present my portfolio card created using the HTML and CSS skills I've learned. 💻 By leveraging the power of Flexbox, I designed a visually appealing card layout that showcases my social media profiles and connections. 🌐 With the help of external icons, I added intuitive and interactive links to various social platforms. Explore the repository to see how I combined my newfound HTML and CSS knowledge to craft this dynamic portfolio card. Stay tuned for more exciting projects on the horizon! 🚀
